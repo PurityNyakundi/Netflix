@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585050727172.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1921551104",
+    "id" : "F34571F6",
+    "lastKnownWriteTime" : 1579494838,
+    "last_content_update" : 1579494838,
+    "path" : "D:/codebase/Netflix/netflix_titles.csv",
+    "project_path" : "netflix_titles.csv",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585053876828.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2F034203",
+    "lastKnownWriteTime" : 7598543875853023333,
+    "last_content_update" : 1585053876828,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "7126682E",
+        "caption" : "nettrain",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=nettrain&cache_key=7126682E",
+        "displayedObservations" : "113",
+        "environment" : "",
+        "expression" : "nettrain",
+        "object" : "nettrain",
+        "preview" : "0",
+        "totalObservations" : "113",
+        "variables" : "3"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

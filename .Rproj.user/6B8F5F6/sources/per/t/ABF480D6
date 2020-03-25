@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585050370299.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "ABF480D6",
+    "lastKnownWriteTime" : 140700047588092,
+    "last_content_update" : 1585050370299,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "C28C6D7E",
+        "caption" : "netflix_titles",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=netflix_titles&cache_key=C28C6D7E",
+        "displayedObservations" : 6234,
+        "environment" : "",
+        "expression" : "netflix_titles",
+        "object" : "netflix_titles",
+        "preview" : 0,
+        "totalObservations" : 6234,
+        "variables" : 12
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

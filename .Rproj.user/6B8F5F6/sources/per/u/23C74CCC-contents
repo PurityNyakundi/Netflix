@@ -1,0 +1,14 @@
+library(randomForest)
+library(ggplot2)
+library(dplyr)
+set.seed(1234)
+mtg<-randomForest(mpg~ .,data = mtcars,ntree =1000,keep.forest = FALSE,importance=FALSE)
+mtg
+
+
+
+
+
+ft<-predict(mtg,data = mtcars$mpg )
+table(mtcars$mpg,predictions(ft))
+table(ft)

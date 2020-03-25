@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585053866973.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C8F25D0",
+    "lastKnownWriteTime" : 8317154752764011892,
+    "last_content_update" : 1585053866973,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "1FAB74F5",
+        "caption" : "nettest",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=nettest&cache_key=1FAB74F5",
+        "displayedObservations" : "113",
+        "environment" : "",
+        "expression" : "nettest",
+        "object" : "nettest",
+        "preview" : "0",
+        "totalObservations" : "113",
+        "variables" : "3"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
